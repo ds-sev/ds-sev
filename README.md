@@ -13,7 +13,27 @@
 
 <img align="right" src="https://mobileapp.sankalpcs.com/img/Cover_UIUX_4.gif" width="400px">
 
-### Мои цели:
+### 📲 Связаться со мной:
+
+  <div id="contacts">
+  <a href="mailto:ds-sev@yandex.ru" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/1603/PNG/512/mail-box-email-post-delivery-envelope_108534.png" width="40" height="40" alt="e-mail" />
+    </a>
+    <a href="https://www.linkedin.com/in/litvinenkod/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+  <a href="https://www.instagram.com/dmitry_li/" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width="40" height="40" alt="instagram" />
+    </a>
+  <a href="https://t.me/Dmitry_Li_Sev" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
+  <a href="https://vk.com/dm_lit" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+    </div>
+
+### 🎯 Мои цели:
 
 - 👨‍🎓 Освоить новую и интересную для меня профессию;
 - 💼 Найти свое место в ней;
