@@ -23,23 +23,23 @@
 
  <div id="contacts">
   <a href="mailto:ds-sev@yandex.ru" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/1603/PNG/512/mail-box-email-post-delivery-envelope_108534.png" width="40" height="40" alt="e-mail" />
-    </a>
+      <img src="https://cdn.icon-icons.com/icons2/1603/PNG/512/mail-box-email-post-delivery-envelope_108534.png" width="40" height="40" alt="e-mail"/>
+    </a>&nbsp
     <a href="https://www.linkedin.com/in/litvinenkod/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin"/>
+    </a>&nbsp
     <a href="https://www.instagram.com/dmitry_li/" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width="40" height="40"           alt="instagram" />
-    </a>
+      <img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width="40" height="40"           alt="instagram"/>
+    </a>&nbsp
     <a href="https://t.me/Dmitry_Li_Sev" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group"/>
+    </a>&nbsp
     <a href="https://vk.com/dm_lit" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  <a href="https://join.skype.com/invite/KpvnJzzrnISs" target="_blank">
-      <img src="https://www.svgrepo.com/show/475679/skype-color.svg" width="40" height="40" alt="VK Badge"/>
-    </a>
+    </a>&nbsp
+    <a href="https://join.skype.com/invite/KpvnJzzrnISs" target="_blank">
+      <img src="https://www.svgrepo.com/show/475679/skype-color.svg" width="40" height="40" alt="Skype"/>
+    </a>&nbsp
 </div>
 
 ### 🥷 Чем владею:
