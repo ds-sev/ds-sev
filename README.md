@@ -37,6 +37,9 @@
     <a href="https://vk.com/dm_lit" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+  <a href="https://join.skype.com/invite/KpvnJzzrnISs" target="_blank">
+      <img src="https://www.svgrepo.com/show/475679/skype-color.svg" width="40" height="40" alt="VK Badge"/>
+    </a>
 </div>
 
 ### 🥷 Чем владею:
